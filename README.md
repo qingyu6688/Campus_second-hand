@@ -119,7 +119,9 @@ Campus_second-hand/
 ---
 <img width="1881" height="984" alt="image" src="https://github.com/user-attachments/assets/abfe5638-1246-4c05-822d-f265d035ba5a" />
 <img width="1881" height="984" alt="image" src="https://github.com/user-attachments/assets/a63bab35-2a85-4f2d-9f43-01a9ff45afd9" />
-![Uploading image.png…]()
+<img width="1881" height="984" alt="image" src="https://github.com/user-attachments/assets/a0bafe9e-0efa-4690-a7aa-c3e8eddbd040" />
+<img width="1881" height="984" alt="image" src="https://github.com/user-attachments/assets/6c870525-8d0d-4a01-913d-8e9d88184db4" />
+
 
 ## 🎨 设计规范 (Design System)
 
