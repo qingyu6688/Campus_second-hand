@@ -8,7 +8,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/campus_second_hand?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
     username: root
-    password: 111111
+    password: root
   jackson:
     date-format: yyyy-MM-dd HH:mm:ss
     time-zone: GMT+8
@@ -42,6 +42,6 @@ knife4j:
 
 file:
   upload:
-    path: f:/桌面/github/Campus_second-hand/uploads/ # 本地存储路径，请根据实际情况修改
+    path: f:/uploads/ # 本地存储路径，请根据实际情况修改
 
 
