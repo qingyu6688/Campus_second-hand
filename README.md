@@ -100,6 +100,12 @@ Campus_second-hand/
    npm run dev
    ```
    访问地址: `http://localhost:5173` (具体端口视控制台输出而定)。
+   <img width="458" height="897" alt="image" src="https://github.com/user-attachments/assets/415bff24-a188-414f-b6cb-87dda1addfe6" />
+<img width="458" height="897" alt="image" src="https://github.com/user-attachments/assets/746b0803-c526-405a-aa72-3dded625db82" />
+<img width="458" height="897" alt="image" src="https://github.com/user-attachments/assets/ede62281-11bc-4b32-9d6b-b6ed376f34b8" />
+<img width="458" height="897" alt="image" src="https://github.com/user-attachments/assets/b52625b3-4613-4214-91ed-f8c0ab2d775a" />
+<img width="458" height="897" alt="image" src="https://github.com/user-attachments/assets/cd9f5ce6-1871-4d15-a03b-df8fd8edfb7b" />
+
 
 ### 5. 后台 (管理端) 启动
 1. 进入 `admin` 目录。
@@ -111,6 +117,9 @@ Campus_second-hand/
    访问地址: `http://localhost:5174` (具体端口视控制台输出而定)。
 
 ---
+<img width="1881" height="984" alt="image" src="https://github.com/user-attachments/assets/abfe5638-1246-4c05-822d-f265d035ba5a" />
+<img width="1881" height="984" alt="image" src="https://github.com/user-attachments/assets/a63bab35-2a85-4f2d-9f43-01a9ff45afd9" />
+![Uploading image.png…]()
 
 ## 🎨 设计规范 (Design System)
 
@@ -125,4 +134,4 @@ Campus_second-hand/
 欢迎提交 Issue 或 Pull Request 来完善本项目！
 
 ## 📄 许可证
-MIT License
+
