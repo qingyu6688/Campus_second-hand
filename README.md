@@ -35,7 +35,7 @@
 - **数据库**: MySQL 8.0
 - **工具库**: Hutool 5.8.25, Lombok
 - **API 文档**: Knife4j 4.3.0 (Swagger 3)
-- **安全/认证**: JJWT 0.11.5
+- **安全/认证**: JWT 0.11.5
 
 ### Frontend (用户前台)
 - **框架**: Vue 3.5 (Composition API)
